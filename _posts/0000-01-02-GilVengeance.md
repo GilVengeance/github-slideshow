@@ -1,8 +1,6 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
+Well hello world
 ---
-my text
-Use the left arrow to go back!
-
-well hello world
+Use the left fucking arrow to go back!
